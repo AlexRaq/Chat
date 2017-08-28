@@ -1,5 +1,30 @@
+button{
+    cursor: pointer;
+}
 .form-signin {
     max-width: 500px;
     margin: 0 auto;
     padding-top: 50px;
+}
+.chat-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.chat-wrap{
+    flex-grow: 1;
+}
+.form-control{
+    border-width: 2px;
+    border-radius: 0;
+}
+.message-wrap .form-control{
+    width: auto;
+}
+.message-wrap .form-control{
+    flex-grow: 4;
+}
+.message-wrap .btn{
+    border-radius: 0;
+    flex-grow: 1;
 }
