@@ -29,41 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/index.html">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="390">
+              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -72,8 +42,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="426">
+              <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -103,10 +73,10 @@
         <option value="$PROJECT_DIR$/server/public/template/login.html" />
         <option value="$PROJECT_DIR$/server/public/js/ctrl/baseCtrl.js" />
         <option value="$PROJECT_DIR$/server/index.html" />
-        <option value="$PROJECT_DIR$/server/index.js" />
         <option value="$PROJECT_DIR$/server/login.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/server/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -128,7 +98,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="1683" />
+    <option name="y" value="122" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -154,6 +125,11 @@
             <path>
               <item name="chat" type="b2602c69:ProjectViewProjectNode" />
               <item name="chat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,15 +181,15 @@
       <workItem from="1502565594913" duration="5363000" />
       <workItem from="1502996063872" duration="146000" />
       <workItem from="1502996231085" duration="1836000" />
-      <workItem from="1503854498887" duration="607000" />
+      <workItem from="1503854498887" duration="1311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9382000" />
+    <option name="totallyTimeSpent" value="10086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
+    <frame x="1683" y="122" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26497534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -464,14 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -504,10 +472,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="426">
+          <caret line="61" column="48" lean-forward="true" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
           <folding />
         </state>
       </provider>
