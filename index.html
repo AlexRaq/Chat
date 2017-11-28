@@ -7,12 +7,20 @@
 </head>
 <body>
 <div class="chat-container">
+    <!--error block start-->
+    <div class="alert alert-danger" role="alert"></div>
+    <!--error block end-->
     <div class="chat-wrap">
         
     </div>
     <div class="message-wrap">
+        <div class="typing">
+            <div class="alert alert-info" role="alert">
+                user typing
+            </div>
+        </div>
         <form class="d-flex">
-            <input type="text" class="form-control" placeholder="Your message">
+            <input type="text" class="form-control input-message" placeholder="Your message">
             <button class="btn btn-primary">Send</button>
         </form>
     </div>
@@ -23,6 +31,6 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.3/socket.io.js"></script>
 <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
-
+<script src="js/chat.js"></script>
 </body>
 </html>

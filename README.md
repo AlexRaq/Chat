@@ -10,12 +10,10 @@ Basic open chat
 
 1. Клонируем репозиторий
 ```js
-git clone https://github.com/dmgame/basic-chat-for-lesson.git
+git clone https://github.com/AlexRaq/Chat.git
 ```
 2. Перейдите в склонированную папку или откройте е в редакторе кода
-```js
-cd basic-chat-for-lesson
-```
+
 3. Разворачивание проекта (установка всех модулей). У вас должен быть установлен nodejs и gulp глобально
 ```js
  npm up

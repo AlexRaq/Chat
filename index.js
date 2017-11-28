@@ -19,6 +19,7 @@ io.on('connection', function(socket){
 
     socket.on('disconnect', function(){
         console.log('user disconnected');
+        io.emit('disconnect');
     });
 
     socket.on('chat message', function(msg){
@@ -29,6 +30,10 @@ io.on('connection', function(socket){
     socket.on('chat write_message', function(bool){
         console.log('write_message');
         io.emit('chat write_message', bool);
+    });
+    socket.on('chat stop_write', function(bool){
+        console.log('stop_write');
+        io.emit('chat stop_write', bool);
     });
 });
 
